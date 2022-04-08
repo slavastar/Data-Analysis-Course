@@ -14,3 +14,10 @@
 | 6 | Information Retrieval | [here](https://colab.research.google.com/drive/1atrlrNMm3VJhQGmcSv0rI0W2xjY7TuNL?usp=sharing) |
 | 7 | Graph Methods | [here](https://colab.research.google.com/drive/1FdaAnc_uznOOn17DP9RPU-zeagxd7l2L?usp=sharing) |
 | 8 | NER, LDA | [here](https://colab.research.google.com/drive/1plbgSAYh5JZOIJWB5vMR_83dLxgEX_qU?usp=sharing#scrollTo=z3pwoI6X0R7G) |
+## Labs
+| Lab | Google Colab |
+|:--:|:---:|
+| 1 | [here](https://colab.research.google.com/drive/1Bw5e-vMOkMScuA397O9zslNz8rhELGjq?usp=sharing) |
+| 2 | [here](https://colab.research.google.com/drive/1ycPVvMijDtK5sKR9p6_cDirbQKYtZsMI?usp=sharing) |
+| 3 | [here](https://colab.research.google.com/drive/1H6nK4Kq6S-b8OmLrpyvAO1M-ehKzeLyJ?usp=sharing) |
+| 4 | [here](https://colab.research.google.com/drive/17BWutceS5vYtZUEmgR8cpIR8w2Om23tF?usp=sharing) |
