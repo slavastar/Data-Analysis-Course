@@ -21,3 +21,4 @@
 | 2 | [here](https://colab.research.google.com/drive/1ycPVvMijDtK5sKR9p6_cDirbQKYtZsMI?usp=sharing) |
 | 3 | [here](https://colab.research.google.com/drive/1H6nK4Kq6S-b8OmLrpyvAO1M-ehKzeLyJ?usp=sharing) |
 | 4 | [here](https://colab.research.google.com/drive/17BWutceS5vYtZUEmgR8cpIR8w2Om23tF?usp=sharing) |
+| Project | [here](https://github.com/slavafive/Data-Analysis-Course/blob/master/Project.ipynb) |
