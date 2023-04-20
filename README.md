@@ -1,5 +1,8 @@
 # Data-Analysis-Course
-👨‍🎓 Data Analysis course at ITMO University
+👨‍🎓 **Data Analysis and Information Retrieval course at ITMO University**
+
+<img width="844" alt="image" src="https://user-images.githubusercontent.com/42523164/233490040-2efcea15-2f70-4f0f-b8d1-17495a3924c9.png">
+
 
 ## Lectures
 | Lecture |  Title |  Google Colab |
